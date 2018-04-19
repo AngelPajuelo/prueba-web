@@ -1,0 +1,21 @@
+#contents {
+    float: left;
+    width: 100%;
+    padding: 40px 0;
+}
+
+#contents > h1 {
+    margin-bottom: 40px;
+    font: normal bold 34px Arial, Tahoma, sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+    color: var(--color-principal);
+}
+
+#contents > p {
+    margin-bottom: 20px;
+    font: var(--fuente-principal);
+    letter-spacing: 1px;
+    text-align: justify;
+    color: var(--color-principal);
+}
